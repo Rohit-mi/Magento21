@@ -5,4 +5,5 @@
         <plugin name="magento-catalog-product-plugin" type="Training\Test\Model\Product" sortOrder="10"/>
     </type> -->
     <preference for="Magento\Catalog\Model\Product" type="Training\Test\Model\Testproduct" />
+    <preference for="Magento\Framework\App\FrontControllerInterface" type="Training\Test\App\FrontController" />
 </config>
