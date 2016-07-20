@@ -7,7 +7,7 @@
     <preference for="Magento\Catalog\Model\Product" type="Training\Test\Model\Testproduct" />
     <preference for="Magento\Framework\App\FrontControllerInterface" type="Training\Test\App\FrontController" />
     <!-- <preference for="Magento\Catalog\Controller\Product\View" type="Training\Test\Controller\Product\View" /> -->
-    <type name="Magento\Catalog\Controller\Product\View">
+    <!-- <type name="Magento\Catalog\Controller\Product\View">
         <plugin name="product-view-controller-plugin" type="Training\Test\Controller\Product\View" sortOrder="10"/>
-    </type>
+    </type> -->
 </config>
