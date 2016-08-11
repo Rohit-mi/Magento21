@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<body>
+    <referenceContainer name="page.main.title">
+        <block class="Test\Catalog\Block\Product\View\Extra"
+               name="product.view.extra"
+               template="Test_Catalog::product/view/extra.phtml"
+               after="-">
+        </block>
+    </referenceContainer>
+</body>
